@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">week4</string>
+    <string name="txtTitle">Convert Weight App</string>
+    <string name="hint">Enter Weight</string>
+    <string name="rdBtnLbToKg">Ounce to kilogram</string>
+    <string name="rdBtnKgToLb">Kgs to lb</string>
+    <string name="txtCheck">Diabetic</string>
+    <string name="btnConvert1">Convert Weight</string>
+
+
+
+</resources>
